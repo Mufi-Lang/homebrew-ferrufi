@@ -1,7 +1,7 @@
 cask "ferrufi" do
-  version "0.0.0-exp.9.f4589c1"
+  version "0.0.0-exp.11.af7eb71"
 
-  sha256 "8c90565961512b522845c443324231a4c14bb2f49c78b62c00c697ef76067ed0"
+  sha256 "aebc011ac5c7df2e4653b792d3d8547fb603f0b481a24ab6b1edce600b77fe81"
 
   url "https://github.com/Mufi-Lang/Ferrufi/releases/download/experimental/Ferrufi-#{version}-macos.zip"
   name "Ferrufi"
