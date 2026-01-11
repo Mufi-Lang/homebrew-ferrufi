@@ -1,5 +1,5 @@
 cask "ferrufi" do
-  version "0.0.0-exp.3.b3a798e"
+  version "0.0.0-exp.4.6eb4fb3"
 
   sha256 "c6d119671629915a4d618036562cec8952434199b124a69e410fc702f0db491d"
 
